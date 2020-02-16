@@ -1,0 +1,53 @@
+.box-1 {
+   height: 50px; 
+}
+.box-2 {
+    height: 50px;
+}
+.box-3 {
+    height: 50px;
+}
+.box-4 {
+    height: 50px;
+}
+.box-1 input {
+    width: 300px;
+    height: 30px;
+    text-align: start;
+}
+.box-2 input {
+    width: 608px;
+    height: 30px;
+}
+.box-3 input {
+    width: 608px;
+    height: 30px;
+}
+.box-4 input{
+    width: 608px;
+    height: 30px;
+
+}
+.box-5{
+    display: flex;
+    flex-direction: row;
+}
+.signup {
+    background-color:maroon;
+    color:ghostwhite;
+    width: 90px;
+    height: 30px;
+    border-radius: 10%;
+}
+.signup-form {
+    background: white;
+    margin-left:550px;
+    box-shadow: yellow;
+    border-radius: 10px;
+}
+.text {
+    margin-left: 200px;
+}
+.submit {
+    margin-left: 315px;
+}
